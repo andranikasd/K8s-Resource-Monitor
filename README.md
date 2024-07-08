@@ -24,7 +24,7 @@ K8s Resource Monitor is a Go-based microservice that monitors custom resources d
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-github-username/k8s-resource-monitor.git
+    git clone https://github.com/andranikasd/K8s-Resource-Monitor.git
     cd k8s-resource-monitor
     ```
 
